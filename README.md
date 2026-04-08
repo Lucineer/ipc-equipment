@@ -31,3 +31,9 @@ bus.consume("emergence-bus", { type: "skill.proposed" }); // [{ id, from, type, 
 Export/import inboxes as JSON for KV storage. Zero dependencies.
 
 Superinstance & Lucineer (DiGennaro et al.)
+
+---
+
+<i>Built with [Cocapn](https://github.com/Lucineer/cocapn-ai) — the open-source agent runtime.</i>
+<i>Part of the [Lucineer fleet](https://github.com/Lucineer)</i>
+
